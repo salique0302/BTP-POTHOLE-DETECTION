@@ -165,7 +165,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 For any inquiries or support, please contact:
 
 - **Name**: MD Salique
-- **Email**: [[your-email@example.com](mailto\:your-email@example.com)]
+- **Email**: mdsalique007@gmail.com
 
 
 
